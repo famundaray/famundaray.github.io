@@ -1,11 +1,7 @@
-<html>
-<head>
-	<title>About Me</title>
-</head>
-<body>
+
 <a href="index.html">Home</a> | <a href="about.html">About Me</a> | <a href="portfolio.html">Portfolio</a>
 <br>
 <strong>Nombre:</strong>Fabiana Amundaray
 <strong>Phone Number:</strong> (305)4690490
 <strong>Email:</strong> fae_04@hotmail.com
-</body>
+
